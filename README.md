@@ -1,6 +1,6 @@
 # leakybucket
 
-[![OSS Lifecycle](https://img.shields.io/osslifecycle/honeycombio/leakybucket)](https://github.com/honeycombio/home/blob/main/honeycomb-oss-lifecycle-and-practices.md)
+[![OSS Lifecycle](https://img.shields.io/osslifecycle/honeycombio/leakybucket?color=pink)](https://github.com/honeycombio/home/blob/main/honeycomb-oss-lifecycle-and-practices.md)
 
 **STATUS: this project is being sunset.** See https://github.com/honeycombio/leakybucket/issues/1
 
