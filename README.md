@@ -1,8 +1,8 @@
 # leakybucket
 
-[![OSS Lifecycle](https://img.shields.io/osslifecycle/honeycombio/leakybucket?color=pink)](https://github.com/honeycombio/home/blob/main/honeycomb-oss-lifecycle-and-practices.md)
+[![OSS Lifecycle](https://img.shields.io/osslifecycle/honeycombio/leakybucket)](https://github.com/honeycombio/home/blob/main/honeycomb-oss-lifecycle-and-practices.md)
 
-**STATUS: this project is being sunset.** See https://github.com/honeycombio/leakybucket/issues/1
+**STATUS: this project has been archived.** See https://github.com/honeycombio/home/blob/main/honeycomb-oss-lifecycle-and-practices.md
 
 leakybucket is a go library for implementing rate limits using the [leaky bucket
 algorithm](https://en.wikipedia.org/wiki/Leaky_bucket)
